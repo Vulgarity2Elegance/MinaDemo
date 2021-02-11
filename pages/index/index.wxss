@@ -1,0 +1,17 @@
+.index_swiper swiper {
+  width: 750rpx;
+  height: 340rpx;
+}
+.index_swiper swiper image {
+  width: 100%;
+}
+.index_cata {
+  display: flex;
+}
+.index_cata navigator {
+  padding: 20rpx;
+  flex: 1;
+}
+.index_cata navigator image {
+  width: 100%;
+}
